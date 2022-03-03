@@ -1,5 +1,7 @@
 ## Getting Started
 
+Inspired by [Sonny Sangha](https://www.youtube.com/playlist?list=PLf16UKl7nR5AF9k4ckTG82onvpAv1NAE7)
+
 First, run the development server:
 
 ```bash

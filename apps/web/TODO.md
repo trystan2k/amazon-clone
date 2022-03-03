@@ -1,0 +1,8 @@
+- Add cypress
+- Remove momentjs
+- Fix issue when removing items from Basket
+- Change how add basket works (to sum items and not duplicate)
+- Move firebase Keys to .env file (and remove files from gitignore)
+- Change colors and logo to not see as Amazon
+- Host images somewhere else (in the app?)
+- Custom SignPage for NextAuth [https://www.youtube.com/watch?v=kB6YNYZ63fw](https://www.youtube.com/watch?v=kB6YNYZ63fw)
